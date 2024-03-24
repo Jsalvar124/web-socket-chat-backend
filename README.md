@@ -5,14 +5,11 @@ This is a backend server built using Node.js and Socket.IO, providing real-time 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [API Routes](#api-routes)
   - [Authentication](#authentication)
   - [User](#user)
   - [Chat](#chat)
   - [Chat Messages](#chat-messages)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
